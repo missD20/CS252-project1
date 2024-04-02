@@ -1,2 +1,2 @@
 # CS252-project1
-My first Linux Project
+a small project with a branch
