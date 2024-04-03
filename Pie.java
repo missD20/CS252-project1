@@ -1,4 +1,5 @@
 /* Adding a java comment */
+/* Adding a second java comment */
 
 import java.awt.Color;
 import java.awt.Graphics2D;
